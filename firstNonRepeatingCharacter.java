@@ -6,7 +6,7 @@ class xyz{
 	int value;
 	int index;
 			
-	xyz(int value, int index){
+	xyz(int value, int index){  
 		this.value=0;
 		this.index=index;
 	}
