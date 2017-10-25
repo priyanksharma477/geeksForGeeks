@@ -1,7 +1,7 @@
 package strings;
 
 import java.util.Scanner;
-
+ 
 public class Rearrange_d_distance {
 	public static void main(String args[]){
 		Scanner in=new Scanner(System.in);
