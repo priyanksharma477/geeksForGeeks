@@ -10,7 +10,7 @@ public class PrintAnagramSorting {
 		int index[]=new int[5];
 		for(int i=0;i<5;i++){
 			char c[]=s[i].toCharArray();
-			Arrays.sort(c);
+			Arrays.sort(c); 
 			s[i]=String.valueOf(c);
 			index[i]=i;
 		}
